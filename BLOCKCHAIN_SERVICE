@@ -1,0 +1,8 @@
+#
+#Sat Sep 15 07:12:03 UTC 2018
+Name=BLOCKCHAIN_SERVICE
+URL=https\://hyperledger-fabric.cfapps.eu10.hana.ondemand.com/api/v1/chaincodes/62b7c784-50a2-48f4-819e-f019ebdd986e-com-sap-product-review/latest/search
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=Invoke Blockchain API

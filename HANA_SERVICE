@@ -1,0 +1,8 @@
+#
+#Sat Sep 15 07:12:10 UTC 2018
+Name=HANA_SERVICE
+URL=https\://oneflp-cal-dev-products01-js.cfapps.eu10.hana.ondemand.com/products01.xsodata
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=HANA API to obtain Product Master Data

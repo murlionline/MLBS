@@ -1,0 +1,8 @@
+#
+#Sat Sep 15 07:12:04 UTC 2018
+Name=BLOCKCHAIN_TOKEN
+URL=https\://cal.authentication.eu10.hana.ondemand.com/oauth/token
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=Blockchain oAuth Token

@@ -1,0 +1,8 @@
+#
+#Sat Sep 15 07:12:13 UTC 2018
+Name=ML_TOKEN
+URL=https\://cal.authentication.eu10.hana.ondemand.com/oauth/token
+ProxyType=Internet
+Type=HTTP
+Authentication=NoAuthentication
+Description=ML oAuth Token
